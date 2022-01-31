@@ -2,3 +2,4 @@
 .env.docker
 venv
 **/__pycache__
+local_files/downloaded_csv/*
