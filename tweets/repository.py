@@ -1,6 +1,6 @@
 from sqlite3 import sqlite_version
 from typing import List
-from profiles import models, dto
+from tweets import models
 from sqlalchemy.orm import Session
 from services.utils import get_arroba_attributes
 
